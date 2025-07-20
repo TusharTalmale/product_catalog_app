@@ -1,11 +1,69 @@
 # Product Catalog & Photo Manager App
 
+
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; text-align: center;">Home Screen (Light Grid)</th>
+      <th style="padding: 10px; text-align: center;">Home Screen (Light List)</th>
+      <th style="padding: 10px; text-align: center;">Search Feature</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/4b92038f-3b4e-447b-a816-957f7ee99949" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/8d32c035-3b4b-4168-9023-b5d9c7d7f6b1" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/a79b9a0e-f417-42f0-b83c-9e2a90546b50" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <th style="padding: 10px; text-align: center;">Filtering by Category/Price</th>
+      <th style="padding: 10px; text-align: center;">Home Screen (Dark List)</th>
+      <th style="padding: 10px; text-align: center;">Home Screen (Dark Grid)</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/ded72740-f296-497c-be19-282373e91895" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/b78c29d4-74f2-496d-a296-2dc41b739635" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/00778b1a-c92b-4a3b-b717-3c08b401f82f" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <th style="padding: 10px; text-align: center;">Favorites (Light Grid)</th>
+      <th style="padding: 10px; text-align: center;">Favorites (Light List)</th>
+      <th style="padding: 10px; text-align: center;">Product Detail (Dark)</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/fb26b5eb-807c-4d74-a3f4-62cbd3fcfc25" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/65b86f39-2452-4124-acc1-a2e2ebe3a3ad" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/2a41f070-a55b-4528-8420-a64e8200abfb" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <th style="padding: 10px; text-align: center;">Add New Custom Product</th>
+      <th style="padding: 10px; text-align: center;">Custom Product in Homepage</th>
+      <th style="padding: 10px; text-align: center;">All Custom Items Page</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/29de6e28-b481-4287-b6d5-54b49e3bcd14" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/6ce1100f-3642-4ec4-b1cf-9cdf312c8ee6" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/d727004b-eaec-46ee-a31e-1f754c338c68" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+    </tr>
+    <tr>
+      <th style="padding: 10px; text-align: center;">Custom Item Detail</th>
+      <th style="padding: 10px; text-align: center;">Edit Custom Item</th>
+      <th style="padding: 10px; text-align: center;">Product Detail (Light)</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/3002a83c-6758-41cd-b832-80979fecadee" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/5c90c001-d461-41da-b1ad-a0ad971dd672" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+      <td style="padding: 10px; text-align: center;"><img src="https://github.com/user-attachments/assets/98f2c83d-9738-4662-b8d1-760db90dc079" width="180px" height="320px" style="object-fit: contain; border-radius: 8px;"></td>
+    </tr>
+  </tbody>
+</table>
+ 
 ## 📸 App Screenshots
 
-| Home Screen | Favorites Screen | Add Product Screen | Detail Screen | My Custom Items Screen |
-| :---------: | :--------------: | :----------------: | :-----------: | :--------------------: |
-| ![Home Screen]() | ![Favorites Screen](path/to/favorites_screen.png) | ![Add Product Screen](path/to/add_product_screen.png) | ![Detail Screen](path/to/detail_screen.png) | ![My Custom Items Screen](path/to/my_custom_items_screen.png) |
-| ![Splash Screen](path/to/splash_screen.png) | ![Filter Bottom Sheet](path/to/filter_bottom_sheet.png) | ![Dark Theme Example](path/to/dark_theme.png) | | |
+
+
+
 
 ## 📌 Project Title:
 "Product Catalog & Photo Manager App"
