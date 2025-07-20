@@ -1,0 +1,63 @@
+name: product_catalog_app
+description: A Flutter app for managing a product catalog with API integration, local storage, and camera/gallery support.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.0.5
+
+  # API Integration
+  dio: ^5.3.3
+  retrofit: ^4.0.3
+  json_annotation: ^4.8.1
+
+  # Local Storage
+  sqflite: ^2.3.0
+  path_provider: ^2.1.1 # For getting application document directory
+  path: ^1.8.3 # For joining paths
+
+  # Image Picking
+  image_picker: ^1.0.4
+
+  # Utility
+  cupertino_icons: ^1.0.2
+  logger: ^2.0.2 
+  connectivity_plus: ^5.0.2 # For checking internet connectivity
+  intl: 0.19.0
+  cached_network_image: ^3.4.1
+  device_preview: ^1.2.0
+  sqflite_common_ffi: ^2.3.6
+  sqflite_common_ffi_web: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  # Code Generation for Retrofit and JSON Serializable
+  build_runner: ^2.4.6
+  retrofit_generator: ^8.0.4
+  json_serializable: ^6.7.1
+
+  # Bonus: App Icon and Splash Screen
+  flutter_launcher_icons: ^0.13.1
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons.jpg
+    - assets/s.png
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/s.png" 
